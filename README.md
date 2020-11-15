@@ -7,8 +7,7 @@
   
 A 20-year-old boy from Brazil, 
 - 🔭 I’m currently studying artificial inteligence
-- 🌱 I’m currently learning about GAN's
-- 👯 I’m looking to collaborate on projects envolving machine learning.
+- 🌱 I’m currently learning Data Science.
 - 🤔 I’m looking for help with A.I.
 - 💬 Ask me about life, games or deep learning
 - 📫 How to reach me: WhatsApp, Telegram, Instagram, GitHub, Linkedin

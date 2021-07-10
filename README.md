@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isac_ramos1@hotmail.com)](mailto:isac_ramos1@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pao.misterioso/)](https://www.instagram.com/pao.misterioso/)
   
-A 20-year-old boy from Brazil, 
+A 21-year-old boy from Brazil, 
 - 🔭 I’m currently studying artificial inteligence
 - 🌱 I’m currently learning Data Science.
 - 🤔 I’m looking for help with A.I.

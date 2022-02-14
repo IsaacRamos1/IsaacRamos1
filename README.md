@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with A.I.
 - 💬 Ask me about life, games or deep learning
 - 📫 How to reach me: WhatsApp, Telegram, Instagram, GitHub, Linkedin
-- ⚡ Fun fact: a bot wouldn't lie to you :)
 -->

@@ -6,12 +6,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pao.misterioso/)](https://www.instagram.com/pao.misterioso/)
   
 A 21-year-old boy from Brazil, 
-- 🔭 I’m currently studying artificial inteligence
-- 🌱 I’m currently learning Data Science.
+- 🔭 I’m currently studying
+- 🌱 I’m currently learning new stuff, such as Mobile development and Network.
 - 🤔 I’m looking for help with A.I.
-- 💬 Ask me about life, games or deep learning
+- 💬 Ask me about life, machine learning or games!
 - 📫 How to reach me: WhatsApp, Telegram, Instagram, GitHub, Linkedin
-- ⚡ Fun fact: a bot wouldn't lie to you :)
 
 <!--
 **IsaacRamos1/IsaacRamos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

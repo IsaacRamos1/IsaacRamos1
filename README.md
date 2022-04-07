@@ -7,7 +7,7 @@
   
 A 21-year-old boy from Brazil, 
 - 🔭 I’m currently studying
-- 🌱 I’m currently learning new stuff, such as Mobile development and Network.
+- 🌱 I’m currently learning new stuff, such as Mobile development and Network, Data Analisys and AI.
 - 🤔 I’m looking for help with A.I.
 - 💬 Ask me about life, machine learning or games!
 - 📫 How to reach me: WhatsApp, Telegram, Instagram, GitHub, Linkedin

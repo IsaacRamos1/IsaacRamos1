@@ -5,11 +5,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isac_ramos1@hotmail.com)](mailto:isac_ramos1@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pao.misterioso/)](https://www.instagram.com/isaacssr.pi/)
   
-A 25-year-old boy from Brazil, 
+A 26-year-old boy from Brazil, 
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning new stuff, such as Neural Network, Data Analisys and AI.
-- 🤔 I’m looking for help with A.I.
-- 💬 Ask me about life, machine learning or games!
+- 🤔 I’m looking for networking.
+- 💬 Ask me about life, machine learning and games!
 - 📫 How to reach me: WhatsApp, Telegram, Instagram, GitHub, Linkedin
 
 <!--
